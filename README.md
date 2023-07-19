@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+![Screenshot (387)](https://github.com/jks6404/portfolio-lite/assets/119485859/8d59a109-a857-4ec4-8f8d-222c7ffa4ee4)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -55,5 +55,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment link: https://portfoliojanu.netlify.app
 
-![Screenshot (387)](https://github.com/jks6404/portfolio-lite/assets/119485859/8d59a109-a857-4ec4-8f8d-222c7ffa4ee4)
+
 
